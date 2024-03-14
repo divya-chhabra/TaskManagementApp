@@ -1,0 +1,16 @@
+.form-wrapper{
+    min-width:25rem;
+    padding: 1rem;
+}
+
+.form-wrapper h2{
+    margin-bottom: 3rem;
+}
+
+.btn-fw{
+    width:100%;
+    background-color:#1f2334;
+    padding: 0.5rem;
+    color:#fff;
+    font-size:1rem;
+}

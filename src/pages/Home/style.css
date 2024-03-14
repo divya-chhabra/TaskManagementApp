@@ -1,0 +1,29 @@
+.main-wrapper{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    min-height: 100vh;
+}
+
+.app-details{
+    background-color: #1f2334;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-details-inner{
+    width:50%;
+    text-align: center;
+}
+
+.app-details-inner img{
+    width:100%;
+    padding-top: 1rem;
+}
+
+.login-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
